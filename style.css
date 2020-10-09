@@ -1,0 +1,18 @@
+   
+    #menu  {
+        float:left;
+        width:240px;
+        background-color:#FF3366;
+        position: absolute;
+        min-height: 150px;
+        }
+        #contenu {
+        margin-left:245px;
+        background-color:#9966FF;
+        min-height : 150px;
+        }
+        #message{
+            margin-left:245px;
+            background-color:#dba52f;
+            min-height : 150px;  
+        }
